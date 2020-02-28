@@ -1,0 +1,27 @@
+.wrapper{
+    padding: 20px;
+    height: 100%;
+}
+table{
+    -webkit-border-vertical-spacing: 10;
+}
+.orange{
+    width: 50%;
+    background-color:orange;
+    height:80px;
+}
+.zelti{
+    width: 100%;
+    background-color:yellow;
+    height:320px;
+}
+.grey{
+    width:20%;
+    background-color: grey;
+    height: 130px;
+}
+.bluu{
+    width:33%;
+    background-color: blue;
+    height:170px;
+}
